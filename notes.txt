@@ -1,0 +1,1 @@
+Lesson 04 (APIs & Keys): Keep API keys in env vars (.env), never commit secrets to Git.
